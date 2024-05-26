@@ -1,0 +1,148 @@
+{
+    "basics": {
+      "name": "Lorenzo Sanz Cerveró",
+      "label": "Junior Developer buscando experiencia en el sector",
+      "image": "/me.webp",
+      "email": "lorenzosanzcerve@gmail.com",
+      "phone": "+34 634590130",
+      "download": "Descarga el archivo",
+      "dark": "Cambia a tema oscuro",
+      "url": "https://lorenzo.dev",
+      "summary": "Junior con muchisimas ganas de aprender y de trabajar para formarme. Mis perspectivas de cara al futuro son llegar a entender varios ámbitos del desarrollo, tanto por el lado cliente como por el lado de servidor, y aprender de todo lo necesario para llegar a poder llamarme Desarrollador Full Stack. En algún momento donde se brinde la oportunidad me gustaría trabajar en el sector de la ciberseguridad y aprender más sobre ella.",
+      "location": {
+        "city": "Valencia",
+        "region": "España"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Lorenzo",
+          "url": ""
+        },
+        {
+          "network": "X",
+          "username": "Lorenzo",
+          "url": ""
+        },
+        {
+          "network": "GitHub",
+          "username": "Lorenzo",
+          "url": "https://github.com/LorenzoSanz"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "DEREX S.A",
+        "position": "Desarrollador de Sistemas",
+        "url": "",
+        "startDate": "2024-01-01",
+        "endDate": null,
+        "summary": "Prácticas de Empresa curriculares mediante CampusAula. Se usarán instrumentos como Docker y VMWare, y lenguajes como ABAP o SQL.",
+        "highlights": [
+          "Primera empresa donde trabajo como desarrollador en mi vida"
+        ]
+      }
+    ],
+    "education": [{
+      "institution": "CampusAula (Actual)",
+      "studyType": "FP Grado Superior, Desarrollo de Aplicaciones Web (DAW)",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "institution": "IES Conselleria (Primer Año)",
+      "studyType": "FP Grado Superior, Asistencia a la dirección (ASIDIR)",
+      "startDate": "2021",
+      "endDate": "2022"
+    },
+    {
+      "institution": "IES L'Eliana",
+      "studyType": "Bachillerato Social",
+      "startDate": "2018",
+      "endDate": "2020" 
+    }
+  ],
+    "skills": [
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "Tailwind"
+      },
+      {
+        "name": "MySQL"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "GitHub"
+      },
+      {
+        "name": "Astro"
+      },
+      {
+        "name": "Java"
+      },
+      {
+        "name": "PHP"
+      },
+      {
+        "name": "ABAP de SAP"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Web con Scrolls",
+        "isActive": true,
+        "description": "Web con scroll controlado y una navbar dinámica entre otras cosas.",
+        "highlights": [
+          "HTML CSS, JavaScript, Astro",
+          "En desarrollo"
+        ],
+        "url": "https://web-scroll.vercel.app/"
+      },
+      {
+        "name": "Typing Challenge",
+        "isActive": false,
+        "description": "Típica Web de teclear bien los textos que se proponen, donde se saca tu puntuación al final.",
+        "highlights": [
+          "HTML CSS, JavaScript",
+          "Contrareloj",
+          "Incompleto"
+        ],
+        "url": "https://typing-project-henna.vercel.app/"
+      },
+      {
+        "name": "Web de Gimnasio",
+        "isActive": true,
+        "description": "Una web llevada a cabo para profundizar en los conocimientos de desarrollo web y probar diseños para landing.",
+        "highlights": [
+          "HTML CSS, JavaScript, Astro",
+          "Varías secciones",
+          "Web con perspectivas comerciales",
+          "Creada con CodeStich"
+        ],
+        "url": "https://landing-page-zeta-eosin.vercel.app/"
+      },
+      {
+        "name": "CRUD para Pasar Lista",
+        "isActive": true,
+        "description": "Una web llevada a cabo para profundizar en los conocimientos de desarrollo web y probar diseños para landing.",
+        "highlights": [
+          "HTML, Vue, PHP, MySQL",
+          "CSS Bootstrap",
+          "Con login",
+          "Protección de sesión"
+        ],
+        "url": "https://landing-page-zeta-eosin.vercel.app/"
+      }
+    ]
+  }
